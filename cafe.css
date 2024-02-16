@@ -15,6 +15,20 @@ body {
   font-style: italic;
 }
 
+hr {
+  height: 2px;
+  background-color: brown ;
+  border-color: brown;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
 h1, h2 {
   font-family: Impact, serif; 
 }
